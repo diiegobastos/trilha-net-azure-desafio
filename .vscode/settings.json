@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/92b5aaef-e571-4cee-8c05-dd441dd2e87f/resourceGroups/desafioFinal/providers/Microsoft.Web/sites/desafiofinal"
+}
